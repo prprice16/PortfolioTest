@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    font-family: cursive;
+    width: 95%;
+}
+
+ul{
+    background-color: gainsboro;
+    margin: 10;
+    padding: 10;
+    font-size: 1.5em;
+}
+li{
+    
+    background-color: gainsboro;
+    display: block;
+    float: left;
+    width: 25%;
+
+    
+}
